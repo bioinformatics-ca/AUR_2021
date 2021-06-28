@@ -15,7 +15,7 @@ length: 2 days
 
  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/AUR_2021_schedule). 
+The course schedule can be found [here](). 
 
 Meet your faculty [here]() 
 
