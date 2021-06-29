@@ -13,9 +13,7 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
- 
-
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2021_schedule). 
+The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/INR_2021_schedule). 
 
 Meet your faculty [here](https://drive.google.com/file/d/1vpWqrjALkrkQyKJm9Kvmpo8qcFNIIygY/view?usp=sharing) 
 
@@ -57,10 +55,4 @@ comming soon
 [Module 3 Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
 
 [Module4] (comming soon)
-
-
-
-
-
-
 
