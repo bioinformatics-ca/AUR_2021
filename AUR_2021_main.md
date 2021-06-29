@@ -15,13 +15,13 @@ length: 2 days
 
  
 
-The course schedule can be found [here](). 
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2021_schedule). 
 
-Meet your faculty [here]() 
+Meet your faculty [here](https://drive.google.com/file/d/1vpWqrjALkrkQyKJm9Kvmpo8qcFNIIygY/view?usp=sharing) 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install and practice exercises can be found [here](). 
+Pre-work including programs to install and practice exercises can be found [here](https://forms.gle/tvHth1qocfCyx2bc8). 
 
 ***
 
@@ -56,7 +56,7 @@ comming soon
 
 [Module 3 Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
 
-
+[Module4] (comming soon)
 
 
 
