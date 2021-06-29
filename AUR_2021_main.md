@@ -56,6 +56,7 @@ comming soon
 # Day 2 <a id="day2"></a>
 
  ## Module 3
+ 
 *<font color="#827e9c">Lauren Erdman</font>*
 
 [Module 3 Lecture](https://drive.google.com/file/d/1gJBpxur6kTIvXsqeN2rA6xUGlNZrLpc9/view?usp=sharing)
@@ -65,6 +66,7 @@ comming soon
 [Module 3 exercise solutions](https://drive.google.com/file/d/1XNs2opbrAp7U_CpLbQH3HlFI3W_y1nAP/view?usp=sharing)
 
  ## Module 4
+ 
  *<font color="#827e9c">Lauren Erdman</font>*
  
 [Module 4 Lecture](https://drive.google.com/file/d/1OQwWHMg2J-zqGr8DY8DuLUW2Ed7_OcCp/view?usp=sharing)
