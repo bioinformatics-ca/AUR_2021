@@ -54,7 +54,7 @@ comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
+[Module 3 Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
 
 
 
