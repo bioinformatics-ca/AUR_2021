@@ -1,7 +1,7 @@
 ---
 layout: tutorial_page
 permalink: /AUR_2021_schedule
-title: EDA 2020 Schedule
+title: AUR 2021 Schedule
 header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2021
 image: /site_images/CBW_R_icon.jpg
