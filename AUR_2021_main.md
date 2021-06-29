@@ -40,16 +40,13 @@ comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture]()
+[Slides](https://drive.google.com/file/d/1GoIHXXcFFhfLozu-f36D4Qyz1QmihCL1/view?usp=sharing)
 
+[Slides](https://drive.google.com/file/d/1S8VBI8cI4-B_-uhkND06PnQnFwgnq1Yj/view?usp=sharing)
 
-*<font color="#827e9c">Gabriela Morgenshtern</font>* 
+[Master script](https://drive.google.com/file/d/1-yAUJXPzhpnpGX1F-KMCXQm98K435Dox/view?usp=sharing)
 
-[Lecture]()
-
-## Exercices
-
-[Data1]()
+[Exercise solutions](https://drive.google.com/file/d/18WSFbf1KN3d1rC_XVG4YmAlFs1c1B5wG/view?usp=sharing)
 
 
 # Day 2 <a id="day2"></a>
@@ -57,12 +54,9 @@ comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture]()
+[Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
 
 
-## Exercices
-
-[MasterFile]()
 
 
 
