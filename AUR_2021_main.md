@@ -40,13 +40,13 @@ comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Slides](https://drive.google.com/file/d/1GoIHXXcFFhfLozu-f36D4Qyz1QmihCL1/view?usp=sharing)
+[Module 1 Slides](https://drive.google.com/file/d/1GoIHXXcFFhfLozu-f36D4Qyz1QmihCL1/view?usp=sharing)
 
-[Slides](https://drive.google.com/file/d/1S8VBI8cI4-B_-uhkND06PnQnFwgnq1Yj/view?usp=sharing)
+[Module 2 Slides](https://drive.google.com/file/d/1S8VBI8cI4-B_-uhkND06PnQnFwgnq1Yj/view?usp=sharing)
 
-[Master script](https://drive.google.com/file/d/1-yAUJXPzhpnpGX1F-KMCXQm98K435Dox/view?usp=sharing)
+[Day 1 master script](https://drive.google.com/file/d/1-yAUJXPzhpnpGX1F-KMCXQm98K435Dox/view?usp=sharing)
 
-[Exercise solutions](https://drive.google.com/file/d/18WSFbf1KN3d1rC_XVG4YmAlFs1c1B5wG/view?usp=sharing)
+[Day 1 exercise solutions](https://drive.google.com/file/d/18WSFbf1KN3d1rC_XVG4YmAlFs1c1B5wG/view?usp=sharing)
 
 
 # Day 2 <a id="day2"></a>
