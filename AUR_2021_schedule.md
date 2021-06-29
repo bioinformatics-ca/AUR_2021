@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /eda_2020_schedule
+permalink: /AUR_2021_schedule
 title: EDA 2020 Schedule
 header1: Workshop Pages for Students
-header2: Exploratory Analysis of Biological Data using R 2020
+header2: Exploratory Analysis of Biological Data using R 2021
 image: /site_images/CBW_R_icon.jpg
-home: https://bioinformaticsdotca.github.io/eda_2020
+home: https://bioinformaticsdotca.github.io/AUR_2021
 ---
 
 | | **Day 1** || **Day 2** |  
