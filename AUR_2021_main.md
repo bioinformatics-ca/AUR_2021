@@ -47,7 +47,6 @@ comming soon
 
 [Module 2 Lecture](https://drive.google.com/file/d/1S8VBI8cI4-B_-uhkND06PnQnFwgnq1Yj/view?usp=sharing)
 
-## Labs
 [Day 1 master script](https://drive.google.com/file/d/1-yAUJXPzhpnpGX1F-KMCXQm98K435Dox/view?usp=sharing)
 
 [Day 1 exercise solutions](https://drive.google.com/file/d/18WSFbf1KN3d1rC_XVG4YmAlFs1c1B5wG/view?usp=sharing)
@@ -69,13 +68,15 @@ comming soon
 
  *<font color="#827e9c">Lauren Erdman</font>*
  
-[Module 4 Lecture](https://drive.google.com/file/d/1OQwWHMg2J-zqGr8DY8DuLUW2Ed7_OcCp/view?usp=sharing)
-
-## Labs
+[Module 4 Lecture](https://drive.google.com/file/d/1GB2EvaRKQ3tWjC_VPkKdsHUdTTMWH9rA/view?usp=sharing)
  
 [Data set 1](https://drive.google.com/file/d/1S4zqokblMtvrMvvMlWI9JLA9ynCXa2KT/view?usp=sharing)
 
 [Data set 2](https://drive.google.com/file/d/1htfixnkxm0af4NT2kxxfpWx3FGh2jui_/view?usp=sharing)
 
 [Data set 3](https://drive.google.com/file/d/1Ctmw5buL7Y88cdbsHN4-kf1NTMUVA3kA/view?usp=sharing)
+
+[Module 4 master script](https://drive.google.com/file/d/1txa-xf2ndBztmacPEHBrQ73HLT8EzSwm/view?usp=sharing)
+
+[Module 4 exercise solution](https://drive.google.com/file/d/1VBUqh5pw0Bl_9ZPwrX1knqkxuxwBJ872/view?usp=sharing)
 
