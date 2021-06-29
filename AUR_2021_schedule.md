@@ -8,23 +8,15 @@ image: /site_images/CBW_R_icon.jpg
 home: https://bioinformaticsdotca.github.io/eda_2020
 ---
 
-| | **Day 1**| **Day 2** |   
-| :---: | :---:| :---: |    
-| | **Thursday, June 11** | **Friday, June 12** |  
-| 10:00 |	<font color="purple">Welcome (Rachade Hmamouchi)</font> |	<font color="purple">Review day 1 (Lauren Erdman)</font> |
-| 10:30 |	<font color="purple">Quick R orientation (Lauren Erdman)</font>	|	<font color="purple">Review Shiny exercise</font> |  
-| 11:00 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 11:20 |	<font color="purple">Introduction to ggplots</font>	|	<font color="purple">Introduction to cluster analysis</font> |  
-| 12:00 |	<font color="purple">short exercise</font>	|	<font color="purple">short exercise</font> |  
-| 12:30 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |
-| 1:00 |	<font color="purple">Review exercise</font>	|	<font color="purple">Review clustering exercise</font> |  
-| 1:30 |	<font color="purple">Merging and data handling</font>	|	<font color="purple">Introduction to dimension reduction</font> |  
-| 2:00 |  <font color="green">*Break*</font> |<font color="green">*Break*</font> | 
-| 3:00 |	<font color="purple">Missing data handling</font>	|	<font color="purple">	More dimension reduction and a short exercise</font> |  
-| 3:30 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 3:40 |	<font color="purple">Introduction to Shiny (Gabriela Morgenshtern)</font>	|	<font color="purple">Review exercise</font> |  
-| 4:30 |	<font color="purple">Shiny exercise</font>	|	<font color="purple">Packages and other extensions for EDA in R</font> |  
-| 5:00 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 5:30 |	<font color="purple">Review shiny exercise</font>	|	<font color="purple">Review assignment solutions</font> |  
-| 6:00 |	<font color="purple">Optional: more advanced shiny exercise</font>	|	<font color="purple">	Survey and Closing Remarks</font> |  
-| 6:30 |	<font color="green">Dinner</font>	|	<font color="green">	Happy Hour</font> |  
+| | **Day 1** || **Day 2** |  
+| :---:| :---: | :---: | :---: |   
+| | **Monday, June 28** || **Tuesday, June 29** |
+|	10:00	|	<font color="purple">Welcome (Francis)</font> |	10:00	|	<font color="purple">Day 1 review, Bioconductor introduction for differential expression analysis (Lauren Erdman)</font> |	
+|	10:15	|	<font color="purple">Getting started and introducing clustering(Lauren Erdman)</font> |	12:00	|	<font color="green">*Break*</font>|	
+|	12:15	|	<font color="green">*Break*</font>|	12:30	|	<font color="purple">Conducting parallel experiments with different statistical tests (Lauren Erdman)</font>| 	
+|	12:45	|	<font color="purple">Short cluster analysis project (Lauren Erdman)</font> |	13:30	|	<font color="green">*Break*</font>|	
+|	13:45	|	<font color="green">*Break*</font>|	14:30	|	<font color="purple">Linear mixed models and evaluation (Lauren Erdman)</font> |	
+|	14:45	|	<font color="purple">Dimensionality reduction (Lauren Erdman)</font> |	16:30	|	<font color="green">*Break*</font>|	
+|	16:45	|	<font color="green">*Break*</font>|	17:00	|	<font color="purple">Review/Extra time if needed (Lauren Erdman)</font> |	
+|	17:15	|	<font color="purple">Short dimensionality reduction and clustering project (Lauren Erdman)</font> |	18:00	|	<font color="purple">Survey & Closing Remarks (Rachade/Francis)</font> |	
+|	18:15	|	|18:15	|	|
