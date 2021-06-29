@@ -52,7 +52,11 @@ comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Module 3 Slides](https://drive.google.com/file/d/1fEYt5bkwqAbz6S5OfSWcJDPRg5Krqi6-/view?usp=sharing)
+[Module 3 Slides](https://drive.google.com/file/d/1gJBpxur6kTIvXsqeN2rA6xUGlNZrLpc9/view?usp=sharing)
+
+[Module 3 master script](https://drive.google.com/file/d/16bMWPOW3e12jZ7hMojU188lfJHVFAejt/view?usp=sharing)
+
+[Module 3 exercise solutions](https://drive.google.com/file/d/1XNs2opbrAp7U_CpLbQH3HlFI3W_y1nAP/view?usp=sharing)
 
 [Module4] (comming soon)
 
